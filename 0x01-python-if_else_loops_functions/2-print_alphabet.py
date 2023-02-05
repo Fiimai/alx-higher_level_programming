@@ -1,4 +1,3 @@
 #!/usr/bin/python3
-
-for index in range(97, 123):
-    print("{:c}".format(index), end='')
+for character in range(97, 123):
+    print("{:c}".format(character), end='')
